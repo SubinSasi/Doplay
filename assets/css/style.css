@@ -826,7 +826,8 @@ header.header.headerFixed {
 }
 
 .hero_warp .banner_content .exp_list {
-    margin: 0;
+    margin-top: 30px;
+    
     padding: 0 0 0 7px;
     list-style: none;
 }
