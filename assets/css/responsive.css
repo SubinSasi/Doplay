@@ -502,7 +502,7 @@
         font-size: 28px;
         line-height: 30px;
     }
-    header.header .navbar .select_lang a {
+    header.header .navbar a {
         font-size: 16px;
     }
     
@@ -632,10 +632,10 @@
         display: none;
     }
     
-    header.header .navbar .select_lang {
+    header.header .navbar {
         margin-right: 15px;
     }
-    header.header .navbar .select_lang a + a {
+    header.header .navbar a + a {
         margin-left: 12px;
     } 
     .leave_comment .comment_text .comment-title {

@@ -294,11 +294,11 @@ header.header .navbar .logo .logo_text:before {
     color: #979591;
 }
 
-header.header .navbar .select_lang {
+header.header .navbar  {
     margin-right: 58px;
 }
 
-header.header .navbar .select_lang a {
+header.header .navbar  a {
     color: #f6f7fb;
     font-size: 18px;
     font-weight: 300;
@@ -309,12 +309,12 @@ header.header .navbar .select_lang a {
     transition: all 0.3s;
 }
 
-header.header .navbar .select_lang a.active,
-header.header .navbar .select_lang a:hover {
+header.header .navbar  a.active,
+header.header .navbar  a:hover {
     opacity: 1;
 }
 
-header.header .navbar .select_lang a+a {
+header.header .navbar  a+a {
     margin-left: 21px;
 }
 
