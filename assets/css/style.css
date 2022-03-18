@@ -16,6 +16,47 @@ This file contains the styling for the actual tempalte, this is the file you nee
 
 /*Base font*/
 
+
+/* Brand images */
+
+.playstation{
+    width: 150px;
+    height: 150px;
+}
+.xbox{
+    width: 150px;
+    height: 150px;
+}
+.rockstar{
+    width: 150px;
+    height: 110px;
+}
+.electronic{
+    width: 200px;
+    height: 130px;
+}
+.tencent{
+    width: 155px;
+    height: 155px;
+}
+.konami{
+    width: 160px;
+    height: 160px;
+}
+.valve{
+    width: 200px;
+    height: 170px;
+}
+.midway{
+    width: 210px;
+    height: 180px;
+}
+.atari{
+    width: 192px;
+    height: 120px;
+}
+
+
 @import url(https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,900);
 .primary-color {
     color: #ffffff;
