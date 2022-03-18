@@ -9,7 +9,7 @@
 
 ![games](https://user-images.githubusercontent.com/97297260/159010657-2e78b79c-25f4-4285-9a86-0466755a23df.png)
 
-![dev](https://user-images.githubusercontent.com/97297260/159010662-996a0f04-ea1b-403b-b163-b5a017c21cef.png)
+![devp](https://user-images.githubusercontent.com/97297260/159011236-c7e5d64d-3577-4791-a3e7-61db601a918a.png)
 
 ![brand](https://user-images.githubusercontent.com/97297260/159010666-7407cd47-62fe-4906-967e-4837a2191442.png)
 
