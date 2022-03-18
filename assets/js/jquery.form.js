@@ -1,12 +1,5 @@
 /*!
-* jQuery Form Plugin
-* version: 3.32.0-2013.04.09
-* @requires jQuery v1.5 or later
-* Copyright (c) 2013 M. Alsup
-* Examples and documentation at: http://malsup.com/jquery/form/
-* Project repository: https://github.com/malsup/form
-* Dual licensed under the MIT and GPL licenses.
-* https://github.com/malsup/form#copyright-and-license
+
 */;(function($){"use strict";var feature={};feature.fileapi=$("<input type='file'/>").get(0).files!==undefined;feature.formdata=window.FormData!==undefined;var hasProp=!!$.fn.prop;$.fn.attr2=function(){if(!hasProp)
 return this.attr.apply(this,arguments);var val=this.prop.apply(this,arguments);if((val&&val.jquery)||typeof val==='string')
 return val;return this.attr.apply(this,arguments);};$.fn.ajaxSubmit=function(options){if(!this.length){log('ajaxSubmit: skipping submit process - no element selected');return this;}

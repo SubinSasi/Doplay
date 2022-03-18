@@ -1,9 +1,4 @@
-/*!
-* universal-tilt.js v0.5
-* Created 2018 by Jakub Biesiada
-* Original idea: https://github.com/gijsroge/tilt.js
-* MIT License
-*/
+
 
 class UniversalTilt {
   constructor(elements, settings = {}) {
